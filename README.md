@@ -10,7 +10,7 @@ CForge/
 ├── searching/
 ├── data_structures/
 ├── graphs/
-├── dp/
+├── dynamic_programming/
 ├── math/
 ├── strings/
 ├── LICENSE
