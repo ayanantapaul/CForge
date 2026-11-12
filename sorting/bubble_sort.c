@@ -1,5 +1,10 @@
 /* -- Bubble Sort -- */
 
+/* NOTE: 
+ * If you want to sort the array in descending order 
+ * then just change the '>' with '<' in line 13
+ * */
+
 #include <stdio.h>
 
 void bubble_sort(int arr[], int arr_len) {
@@ -35,3 +40,4 @@ int main(void) {
 
 	return 0;
 }
+
